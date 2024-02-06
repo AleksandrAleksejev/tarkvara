@@ -7,3 +7,16 @@
 Проект по разработке - Аrendusprojekt
 Проект по реализации - realiseerimisprojekt
 Диаграмма Ганта - Gantti diagramm
+***Lisa esimese faili juurde järgmised tõlked:
+
+?критический путь проекта -projekti kriitiline tee
+?виды рисков в проекте - projekti riskide tüübid
+?аутсортсинг --allhange 
+?краудсортсинг -- rahvahulga hankimine
+?ИТ аудит -- IT audit
+?ERP системы -- ERP süsteemid
+?ROI для оценки проектов -- ROI projekti hindamiseks
+?Tacit
+?Knowledge Managment System
+?cистемы управления базами данных – какие знаете?
+?Project Managment Tool
