@@ -20,3 +20,22 @@
 ?Knowledge Managment System KMS -?
 ?cистемы управления базами данных – какие знаете? andmebaaside haldususteemid MS SQL, Orecle, MS Acess  
 ?Project Managment Tool ? Projecti haldamisetarkvara MS Project, ProjectLibre
+
+mudel - модель
+kasutusmalliskeem - Прецедентов диограмма/схема
+tegevusskeem - Диограмма активности / деятельности 
+jadaskeem - Диограмма последовательностей
+klassiskeem - Диограмма классов
+koostööskeem - Диограмма взаимодействий  
+andmebaasiskeem - Диограмма баз данных
+olem - сущность
+seos - связь
+muster -узор
+mustand - черновик
+punkt - точка
+romb - ромб
+ristkülik - прямоугольник
+nool - стрелка
+joon - линия
+algussõlm - начальный узел
+ovaal - овал
